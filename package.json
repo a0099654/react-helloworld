@@ -1,0 +1,25 @@
+{
+  "name": "food-blog",
+  "version": "1.0.0",
+  "description": "React application with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a0099654/react-helloworld.git"
+  },
+  "author": "Stella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a0099654/react-helloworld/issues"
+  },
+  "homepage": "https://github.com/a0099654/react-helloworld#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-react-views": "^0.10.1",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
